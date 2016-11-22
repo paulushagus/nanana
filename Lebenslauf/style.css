@@ -1,8 +1,13 @@
 
 
 .one {
-      font-family: Arial;
+      font-family: menu;
       font-size: 12px ;
-      float:right ;
-      color: dark-grey;
+      float: right ;
+      color: blue;
       }
+
+#p2 {
+      font-size: 10px ;
+      position: left;
+      font-family : status-bar;
