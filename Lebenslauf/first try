@@ -2,17 +2,30 @@
 <html>
     <head>
       <title>Mein Lebenslauf</title>
+      <a herf="style.css"    text="stylesheet"   rel="style.css"/>
      </head>
      <body>
         <img src="http://www.binaryoptionswatchdog.com/wp-content/uploads/2014/04/pimplogo.png"/>
         <h1> Mein Lebenslauf </h1>
-          <h4>Schulisches Leben: </h4>
-            <li>
-              <ol>2004-2009: Volkschule Kirchdorf</ol>
-              <ol>2009-2013: Bundesgymnasium Lustenaua </ol>
-              <ol>2013-... : Borg Egg </ol>
-     
-     
+        
+            <h4 div="one">Über mich</h4>
+                <p>Name: Der Boos</p>
+                <p>Adresse: Fisterstraße 69a</p>
+                <p>Geburtsdatum: 13.1.1999 </p>
+                <p>Geburtsort: Lustenau </p>
+                <p> Telefon:067 3984 49</p>
+  
+            <h4 div="one">Schulisches Leben: </h4>
+                <li>
+                  <ol>2004-2009: Volkschule Kirchdorf</ol>
+                  <ol>2009-2013: Bundesgymnasium Lustenaua </ol>
+                  <ol>2013-... : Borg Egg </ol>
+                </li>
+
+            <h4 div="one">Ehemalige Tätigkeiten</h4>
+            
+         <p> Ab 2011: Mitglied der Schülergruppe Naturschutz und Umweltschutz </p>
+         <p> 2013-2014 : Praktikum bei der Gmbh Bayer</p>
      
      
      
