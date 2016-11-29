@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Lebenslauf</title>
+      <link type="text/css" rel="stylesheet" href="stylesheets.css"/>
+    </head>
+    <body>
+      <div id="content">
+        <h1>Lebenslauf-Paul Hagen</h1>
+      <div id="Daten">
+        <h2>Daten</h2>
+        <p>Name:Paul Hagen</p>
+        <p>Wohnort:Lustenau</p>
+        <p>Geburtsdatum:13.1.1999</p>
+      </div>
+       <div id="Schullaufbahn">
+        <h2>Schullaufbahn</h2>
+        <p>Volkschule Kirchdorf: 2006- 2010</p>
+        <p>Gymnasium Lustenau: 2010-2014</p>
+        <p>Borg Egg: 2014-...</p>
+      </div>  
+      </div>                       
+    </body>
+  </html>  
